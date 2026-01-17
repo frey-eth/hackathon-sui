@@ -1,17 +1,13 @@
 import { getFullnodeUrl } from "@mysten/sui/client";
-import {
-  TESTNET_HELLO_WORLD_PACKAGE_ID,
-} from "./constants.ts";
 import { createNetworkConfig } from "@mysten/dapp-kit";
 
-const { networkConfig, useNetworkVariable, useNetworkVariables } =
-  createNetworkConfig({
-    testnet: {
-      url: getFullnodeUrl("testnet"),
-      variables: {
-        helloWorldPackageId: TESTNET_HELLO_WORLD_PACKAGE_ID,
-      },
-    },
-  });
+const { networkConfig, useNetworkVariable, useNetworkConfig } = createNetworkConfig({
+	testnet: {
+		url: getFullnodeUrl("testnet"),
+	},
+	mainnet: {
+		url: getFullnodeUrl("mainnet"),
+	},
+});
 
-export { useNetworkVariable, useNetworkVariables, networkConfig };
+export { useNetworkVariable, useNetworkConfig, networkConfig };
