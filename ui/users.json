@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0xae3be2ec6edde9dc5e24eea2b34b1cee854c1fd2a6ddffa730bb1f4df6bed6c3",
+    "privateKey": "suiprivkey1qpra6873teejhaz2f36z7yh6wjl75lgmj3f7j6fetxzcaak2x7p4ghkv54e",
+    "coinObjectId": "0x983d3c0d437e49f7e90cdfbdd1e0c772134b0b580882497c509b7d70aa690b93"
+  },
+  {
+    "address": "0x500492d3764820ac3d032df73c934eefeead10d48dbd8f9976084a6bd0da6134",
+    "privateKey": "suiprivkey1qrjrjytzx4uv6h0jvc27v30eymyth50y77heulzcade66k88xn6dcdj3ha8",
+    "coinObjectId": "0x8be6c8f48bea02f7b03015eb3577bd019098dc7c5379a1942368cc6235ddc4e1"
+  },
+  {
+    "address": "0x185fc4da18d69e1b7dfb613df02decb0382d0a1fe5ae273888fbc94cc3c7533f",
+    "privateKey": "suiprivkey1qz2hsj4tl84usys8g2r7am7u67nxmke6keccmzt8z9jqmfqjrthlg8pc85p",
+    "coinObjectId": "0x6b947f0ee8f3c9e9149f1cc824e223f9cf14ebbb8bef7f4b7ec21730a6198ea3"
+  },
+  {
+    "address": "0x92aaae2830f2235f9d1058f02e28dfcb599a80eb7997951d0a461538d19d53b6",
+    "privateKey": "suiprivkey1qzaj56k7rums5v6djr8fk9ctm4sltypyvksksackkh63v89pq63fgkdfez2",
+    "coinObjectId": "0x9dd6ffb19522a0a09ede9e7f6ad8078fb27b2381e25208f3f36cb7e4a80a06ab"
+  },
+  {
+    "address": "0xf337a46cdb2956a4b62dc081456791939fd04c12adbe03954a84a5656cab1c51",
+    "privateKey": "suiprivkey1qrx68yzd30c38ed3ny6yfygeekhajmyf7mjkvfvpucqan95rrugg6dzl2lx",
+    "coinObjectId": "0x122db2c4db2092f7cd0b1dc5ad52d6a9539785965d83eb3b3d96bb75b63a71c8"
+  },
+  {
+    "address": "0xcf6680ff9b79ca34997b054542b2400ce79052efc501bb5b9856456d78214c8f",
+    "privateKey": "suiprivkey1qr847z6vw6r0fwqxnmwp8zz5h6ny32wguwes233nslmvme4wyzkfumnzujf",
+    "coinObjectId": "0x12482b162b6503345b621ef9483b3734e482164975bdeeba19bb4e7631ed3303"
+  },
+  {
+    "address": "0xcaa7e2d99dd332add9172d4841152aa9666c0ec543811b462f51bc800fe16d09",
+    "privateKey": "suiprivkey1qzm0nxqra0w6xtsvvcfvzryw7xkk435d887j9cu4aajm5nzchjkhvgmyl58",
+    "coinObjectId": "0x4992356705071fa834e2f4ef3e420171821fec8f2e8f0ef100a5c39fff683558"
+  },
+  {
+    "address": "0xd324624829fd425911a295162a727604fef278d235a4e40e86a8c4d7b10c9d9e",
+    "privateKey": "suiprivkey1qrrpz65q9evfqyk50dzevaehp0qf4jll82av45cujp5d67pe57dw5ylxkrg",
+    "coinObjectId": "0xc8162769110e92a623c2b9a2bf405e35e5e299811bd718f9522444bb2580c266"
+  },
+  {
+    "address": "0x925844f7b980de2ead8da23519bc26fe6649c082af158b1d8498367b5f96c653",
+    "privateKey": "suiprivkey1qqn9h3xljxxp4d4znadgtye6xscgs98vh93lzpwee0jf6xdyf6lq2x5zape",
+    "coinObjectId": "0x3a6fe393aec5b908be7e82fd00423e0764b97e33e358b72bef9f37a37c1a93bc"
+  },
+  {
+    "address": "0x275163ac469230ddcf8552f3ae1b75fd71802fb9db3ef87dc3d270a7a3b3ae92",
+    "privateKey": "suiprivkey1qqyt03us98zm68kf07tu07vxnhn78wh6rqav3sza6u47trch67h3xsa8l9n",
+    "coinObjectId": "0xde56dcd10e01d7cbeebc67669b064f4922f621079125269d740e9d3988dd9b9c"
+  }
+]
